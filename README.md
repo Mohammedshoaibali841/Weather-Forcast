@@ -4,7 +4,7 @@ This is a simple weather application that allows users to search for and view th
 ### Homepage
 ![homepage snap](images/Newyork.png)
 
-###Cities
+### Cities
 ![Hyderabad snap](images/Hyderabad.png)
 ![Ooty snap](images/Ooty.png)
 
